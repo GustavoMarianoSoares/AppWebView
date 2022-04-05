@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "AppWebView",
+    "slug": "AppWebView",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
